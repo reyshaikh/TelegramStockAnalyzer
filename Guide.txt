@@ -1,0 +1,5 @@
+cd C:\Users\rsha36\Documents\TelegramStockAnalyzer\telegram_stock_breakout_mvp
+
+C:\Users\rsha36\Documents\TelegramStockAnalyzer\.venv\Scripts\activate.bat
+
+python bot.py
